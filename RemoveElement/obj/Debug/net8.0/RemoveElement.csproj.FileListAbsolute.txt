@@ -1,0 +1,15 @@
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\RemoveElement\bin\Debug\net8.0\RemoveElement.exe
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\RemoveElement\bin\Debug\net8.0\RemoveElement.deps.json
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\RemoveElement\bin\Debug\net8.0\RemoveElement.runtimeconfig.json
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\RemoveElement\bin\Debug\net8.0\RemoveElement.dll
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\RemoveElement\bin\Debug\net8.0\RemoveElement.pdb
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\RemoveElement\obj\Debug\net8.0\RemoveElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\RemoveElement\obj\Debug\net8.0\RemoveElement.AssemblyInfoInputs.cache
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\RemoveElement\obj\Debug\net8.0\RemoveElement.AssemblyInfo.cs
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\RemoveElement\obj\Debug\net8.0\RemoveElement.csproj.CoreCompileInputs.cache
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\RemoveElement\obj\Debug\net8.0\RemoveElement.sourcelink.json
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\RemoveElement\obj\Debug\net8.0\RemoveElement.dll
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\RemoveElement\obj\Debug\net8.0\refint\RemoveElement.dll
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\RemoveElement\obj\Debug\net8.0\RemoveElement.pdb
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\RemoveElement\obj\Debug\net8.0\RemoveElement.genruntimeconfig.cache
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\RemoveElement\obj\Debug\net8.0\ref\RemoveElement.dll
