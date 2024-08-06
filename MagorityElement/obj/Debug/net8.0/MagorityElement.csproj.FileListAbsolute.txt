@@ -1,0 +1,15 @@
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\MagorityElement\bin\Debug\net8.0\MagorityElement.exe
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\MagorityElement\bin\Debug\net8.0\MagorityElement.deps.json
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\MagorityElement\bin\Debug\net8.0\MagorityElement.runtimeconfig.json
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\MagorityElement\bin\Debug\net8.0\MagorityElement.dll
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\MagorityElement\bin\Debug\net8.0\MagorityElement.pdb
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\MagorityElement\obj\Debug\net8.0\MagorityElement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\MagorityElement\obj\Debug\net8.0\MagorityElement.AssemblyInfoInputs.cache
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\MagorityElement\obj\Debug\net8.0\MagorityElement.AssemblyInfo.cs
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\MagorityElement\obj\Debug\net8.0\MagorityElement.csproj.CoreCompileInputs.cache
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\MagorityElement\obj\Debug\net8.0\MagorityElement.sourcelink.json
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\MagorityElement\obj\Debug\net8.0\MagorityElement.dll
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\MagorityElement\obj\Debug\net8.0\refint\MagorityElement.dll
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\MagorityElement\obj\Debug\net8.0\MagorityElement.pdb
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\MagorityElement\obj\Debug\net8.0\MagorityElement.genruntimeconfig.cache
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\MagorityElement\obj\Debug\net8.0\ref\MagorityElement.dll
