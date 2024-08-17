@@ -1,0 +1,15 @@
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\BestTimeToByAndSellStocks\bin\Debug\net8.0\BestTimeToByAndSellStocks.exe
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\BestTimeToByAndSellStocks\bin\Debug\net8.0\BestTimeToByAndSellStocks.deps.json
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\BestTimeToByAndSellStocks\bin\Debug\net8.0\BestTimeToByAndSellStocks.runtimeconfig.json
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\BestTimeToByAndSellStocks\bin\Debug\net8.0\BestTimeToByAndSellStocks.dll
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\BestTimeToByAndSellStocks\bin\Debug\net8.0\BestTimeToByAndSellStocks.pdb
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\BestTimeToByAndSellStocks\obj\Debug\net8.0\BestTimeToByAndSellStocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\BestTimeToByAndSellStocks\obj\Debug\net8.0\BestTimeToByAndSellStocks.AssemblyInfoInputs.cache
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\BestTimeToByAndSellStocks\obj\Debug\net8.0\BestTimeToByAndSellStocks.AssemblyInfo.cs
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\BestTimeToByAndSellStocks\obj\Debug\net8.0\BestTimeToByAndSellStocks.csproj.CoreCompileInputs.cache
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\BestTimeToByAndSellStocks\obj\Debug\net8.0\BestTimeToByAndSellStocks.sourcelink.json
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\BestTimeToByAndSellStocks\obj\Debug\net8.0\BestTimeToByAndSellStocks.dll
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\BestTimeToByAndSellStocks\obj\Debug\net8.0\refint\BestTimeToByAndSellStocks.dll
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\BestTimeToByAndSellStocks\obj\Debug\net8.0\BestTimeToByAndSellStocks.pdb
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\BestTimeToByAndSellStocks\obj\Debug\net8.0\BestTimeToByAndSellStocks.genruntimeconfig.cache
+C:\Users\PotatoKiller\source\repos\LeetCodeKatas\BestTimeToByAndSellStocks\obj\Debug\net8.0\ref\BestTimeToByAndSellStocks.dll
